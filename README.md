@@ -27,3 +27,6 @@ A list of CyberSecurity platforms in no particular order.
 | https://www.rangeforce.com/ | CyberSecurity ranges | Labs + Challenges | No | Yes |
 | https://institute.sektor7.net/ | Malware Development | Course + Labs | ? | Yes |
 | https://maldevacademy.com/ | Malware Development | Course | ? | ? |
+| https://learn.first.org/ | CVSS/PSIRT/Similar | Course | No | Yes |
+| https://pwn.college/ | CyberSecurity fundamentals | Course and labs | No | No |
+| https://ret2.io/ | Exploit dev | Course + Labs | No | ? |
