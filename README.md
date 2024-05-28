@@ -30,3 +30,6 @@ A list of CyberSecurity platforms in no particular order.
 | https://learn.first.org/ | CVSS/PSIRT/Similar | Course | No | Yes |
 | https://pwn.college/ | CyberSecurity fundamentals | Course and labs | No | No |
 | https://ret2.io/ | Exploit dev | Course + Labs | No | ? |
+| https://guidedhacking.com/ | RE/Programming with the goal of game hacking | Guides and tutorials + YT videos | No | No |
+| https://overthewire.org/wargames/ | CyberSecurity Fundamentals | Labs | No | No |
+| https://underthewire.tech/wargames | PowerShell and related fundamentals | Labs | No | No |
