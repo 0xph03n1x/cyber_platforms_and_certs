@@ -1,6 +1,6 @@
 # CyberSecurity Platforms and Certification exams
 
-A list of CyberSecurity platforms in no particular order.
+A list of CyberSecurity platforms in no particular order.  
 (The main purpose of this repository is to help me close the multitude of tabs and tab groups with interesting platforms I find and keep saving)
 
 | Platform Name | Information | Type | Certification Exam | Certificate of Completion | 
