@@ -37,4 +37,4 @@ A list of CyberSecurity platforms in no particular order.
 | www.letsdefend.io/ | Training | Labs | ? | ? |
 | www.cyberdefenders.org/ | Training | Labs + Certification Exams | Yes | ? |
 | www.socprime.com/ | Detection engineering | Detection rulles | No | No |
-| https://pentesterlab.com/ | Applicaiton Security | Labs + guides | No | Yes |
+| www.pentesterlab.com/ | Applicaiton Security | Labs + guides | No | Yes |
