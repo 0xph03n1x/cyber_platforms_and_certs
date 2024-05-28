@@ -33,3 +33,4 @@ A list of CyberSecurity platforms in no particular order.
 | https://guidedhacking.com/ | RE/Programming with the goal of game hacking | Guides and tutorials + YT videos | No | No |
 | https://overthewire.org/wargames/ | CyberSecurity Fundamentals | Labs | No | No |
 | https://underthewire.tech/wargames | PowerShell and related fundamentals | Labs | No | No |
+| https://gamehacking.academy/ | Game hacking | Guides and tutorials | No | No |
