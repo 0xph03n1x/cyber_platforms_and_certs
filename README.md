@@ -24,4 +24,6 @@ A list of CyberSecurity platforms in no particular order.
 | https://cloudsecurityalliance.org/education | Cloud and cloud native | Certification exams + training | Yes | No |
 | https://www.practical-devsecops.com/ | DevSecOps | Certification exams + training | Yes | No |
 | https://www.virtualhackinglabs.com/ | Pentesting labs | Labs + Certification Exam | Yes | ? |
-| https://www.rangeforce.com/ | CyberSecurity ranges | Labs + Challenges | No | Yes (Badge for completing paths, mostly paid)|
+| https://www.rangeforce.com/ | CyberSecurity ranges | Labs + Challenges | No | Yes |
+| https://institute.sektor7.net/ | Malware Development | Course + Labs | ? | Yes |
+| https://maldevacademy.com/ | Malware Development | Course | ? | ? |
