@@ -38,3 +38,4 @@ A list of CyberSecurity platforms in no particular order.
 | www.cyberdefenders.org/ | Training | Labs + Certification Exams | Yes | ? |
 | www.socprime.com/ | Detection engineering | Detection rulles | No | No |
 | www.pentesterlab.com/ | Applicaiton Security | Labs + guides | No | Yes |
+| www.lowlevel.academy/ | Secure Coding (in C) | Courses + projects | ? | ? |
