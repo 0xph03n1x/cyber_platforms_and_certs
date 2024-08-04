@@ -39,3 +39,5 @@ A list of CyberSecurity platforms in no particular order.
 | www.socprime.com/ | Detection engineering | Detection rulles | No | No |
 | www.pentesterlab.com/ | Applicaiton Security | Labs + guides | No | Yes |
 | www.lowlevel.academy/ | Secure Coding (in C) | Courses + projects | ? | ? |
+| www.cyber5w.com | Malware analysis | Course + Certificaiton Exam | Yes | ? |
+| www.cellebrite.com/en/training/ | Forensics with Cellebrite | Course + Certification Exam | Yes | ? |
